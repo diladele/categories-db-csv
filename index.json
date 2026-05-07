@@ -1,7 +1,7 @@
 {
     "module": "cats",
     "format": "csv",
-    "created": "2026-05-06T16:26:28.288510",
+    "created": "2026-05-07T14:30:17.834672",
     "files": [
         {
             "name": "ac",
@@ -475,8 +475,8 @@
         },
         {
             "name": "com",
-            "raw": "DEC9C1EA281254866B7960548EF6DCB3",
-            "pack": "6A4897C94F5BA2A695180EA99B6F0E73"
+            "raw": "189D4CB8C808AA2CF47F8E4DD79C3BC7",
+            "pack": "5C4815EDA95B42FE386899DED85A4880"
         },
         {
             "name": "company",
@@ -550,8 +550,8 @@
         },
         {
             "name": "de",
-            "raw": "95A6AE0E1B73C2CD0D3F0BED9A21D2B4",
-            "pack": "1B90B5370ADEDD9D1BD7951CC46B866F"
+            "raw": "49A74C54C25594D3AC80BA64CE9437A4",
+            "pack": "DD11AB0189D37D7DBEF3BF531B3BCED6"
         },
         {
             "name": "deals",
@@ -665,13 +665,13 @@
         },
         {
             "name": "eu",
-            "raw": "9221053C749C7BBE26F7011187AB803D",
-            "pack": "1CD788DAEF59D69CF999672377B53A4D"
+            "raw": "15016C7F8BE7F5A07D7D22BF12F731F6",
+            "pack": "3489021AFE3F22BD9986AFD0415F7799"
         },
         {
             "name": "events",
-            "raw": "A7F2FD6959624D5983F0AAFB42D545A7",
-            "pack": "515356651BB4946E67B7F436A43D7F18"
+            "raw": "6A2AD9BAB7264F1465866FA7E2E6C0C4",
+            "pack": "CE295D9A80778E913E913BB89ECBA2DA"
         },
         {
             "name": "exchange",
@@ -755,8 +755,8 @@
         },
         {
             "name": "fr",
-            "raw": "1458302B18231DFB2343434F6212C02B",
-            "pack": "0942BB62158FF378449F5DF06A479F58"
+            "raw": "5DBBE064AAD5779E08096DBD97CC5B46",
+            "pack": "83E297172814EE58BE1B641DAA1AF868"
         },
         {
             "name": "free",
@@ -1095,8 +1095,8 @@
         },
         {
             "name": "it",
-            "raw": "54C728AA5F9FCE6BB47D3D6035240A27",
-            "pack": "6059C2F94FE562BEA663A525EFBF9E3C"
+            "raw": "EBF06E35624440AF5E01F061015249F1",
+            "pack": "E9C534AFFCD36C7680D4B1D52E0F4051"
         },
         {
             "name": "je",
@@ -1945,8 +1945,8 @@
         },
         {
             "name": "solutions",
-            "raw": "3C78F2E12E188242608CF6ECD74C670E",
-            "pack": "4DB2E4B39EEF3CCB4F0AA15D23889837"
+            "raw": "F5EF7B4BD3302E2F4B823C357B84CDD7",
+            "pack": "6E751083B874A697C5312FAFF66E6AB7"
         },
         {
             "name": "space",
@@ -2277,6 +2277,11 @@
             "name": "webcam",
             "raw": "51E5C5906670A445458FBA51A4DF88FD",
             "pack": "1EDD11831A52916876BDA999FB1E7880"
+        },
+        {
+            "name": "weber",
+            "raw": "505B78DE35440E842CF5DBD9BE35AC1D",
+            "pack": "0CA36DF115A7CD1A247D8B84100F2B72"
         },
         {
             "name": "website",
